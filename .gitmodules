@@ -1,0 +1,15 @@
+[submodule "Enterprise-Architect-Add-in-Framework"]
+	path = Enterprise-Architect-Add-in-Framework
+	url = https://github.com/rheingold/Enterprise-Architect-Add-in-Framework.git
+[submodule "Enterprise-Architect-Toolpack"]
+	path = Enterprise-Architect-Toolpack
+	url = https://github.com/rheingold/Enterprise-Architect-Toolpack.git
+[submodule "UML-Tooling-Framework"]
+	path = UML-Tooling-Framework
+	url = https://github.com/rheingold/UML-Tooling-Framework
+[submodule "DDL-Parser"]
+	path = DDL-Parser
+	url = https://github.com/rheingold/DDL-Parser.git
+[submodule "cobol-object-mapper"]
+	path = cobol-object-mapper
+	url = https://github.com/rheingold/cobol-object-mapper.git
